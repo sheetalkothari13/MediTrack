@@ -116,6 +116,9 @@ export default function Home() {
             </div>
           </div>
         </main>
+        <footer className="mt-16 text-center text-gray-500 dark:text-gray-400">
+          made by Sheetal
+        </footer>
       </div>
     </div>
   );
